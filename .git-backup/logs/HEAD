@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 da4e7ea5fe008232b90bfae092105a3fa77f6446 sergey <zak_on@list.ru> 1760260329 +0300	clone: from gitlab.31338.ru:study/java/stream-1/java-s1-szakirov.git
+da4e7ea5fe008232b90bfae092105a3fa77f6446 da4e7ea5fe008232b90bfae092105a3fa77f6446 sergey <zak_on@list.ru> 1760260546 +0300	checkout: moving from main to feature/clean-architecture-rest-api
+da4e7ea5fe008232b90bfae092105a3fa77f6446 5ad9b6682bd0fc9e38666e6454b4deeaff655250 sergey <zak_on@list.ru> 1760460377 +0300	commit: feat: CA-1 Clean-architecture-rest-api
+5ad9b6682bd0fc9e38666e6454b4deeaff655250 9faa057dad6f9937056917484bad5d85e3aea3de sergey <zak_on@list.ru> 1761384266 +0300	commit: feat: CA-1 Clean-architecture-rest-api
+9faa057dad6f9937056917484bad5d85e3aea3de da4e7ea5fe008232b90bfae092105a3fa77f6446 sergey <zak_on@list.ru> 1761384358 +0300	rebase (start): checkout da4e7ea5fe008232b90bfae092105a3fa77f6446
+da4e7ea5fe008232b90bfae092105a3fa77f6446 5ad9b6682bd0fc9e38666e6454b4deeaff655250 sergey <zak_on@list.ru> 1761384358 +0300	rebase: fast-forward
+5ad9b6682bd0fc9e38666e6454b4deeaff655250 bcf7d4dba308260003e9bfe2b01c747d45840a43 sergey <zak_on@list.ru> 1761384358 +0300	rebase (reword): feat: CA-1 Clean-architecture-rest-api
+bcf7d4dba308260003e9bfe2b01c747d45840a43 0d03ccf85fba4ac9b38ad4332d590ffb7e30e1a8 sergey <zak_on@list.ru> 1761384358 +0300	rebase (fixup): feat: CA-1 Clean-architecture-rest-api
+0d03ccf85fba4ac9b38ad4332d590ffb7e30e1a8 0d03ccf85fba4ac9b38ad4332d590ffb7e30e1a8 sergey <zak_on@list.ru> 1761384358 +0300	rebase (finish): returning to refs/heads/feature/clean-architecture-rest-api
+0d03ccf85fba4ac9b38ad4332d590ffb7e30e1a8 1dd017bead13f5c9b00074c475129c5e923c7e0f sergey <zak_on@list.ru> 1761589444 +0300	checkout: moving from feature/clean-architecture-rest-api to dev
+1dd017bead13f5c9b00074c475129c5e923c7e0f 1dd017bead13f5c9b00074c475129c5e923c7e0f sergey <zak_on@list.ru> 1762106838 +0300	checkout: moving from dev to feature/clean-architecture-entity
+1dd017bead13f5c9b00074c475129c5e923c7e0f a64f9a9d6c180a94e00ff60b867e56334351dcb9 sergey <zak_on@list.ru> 1762246483 +0300	commit: feat: CA-2 Clean-architecture-entity
+a64f9a9d6c180a94e00ff60b867e56334351dcb9 7d16a3e45d4508006c9667627b29601a3e1383cc sergey <zak_on@list.ru> 1763315940 +0300	commit: feat: CA-2 Clean-architecture-entity
+7d16a3e45d4508006c9667627b29601a3e1383cc 1dd017bead13f5c9b00074c475129c5e923c7e0f sergey <zak_on@list.ru> 1763316012 +0300	rebase (start): checkout 1dd017bead13f5c9b00074c475129c5e923c7e0f
+1dd017bead13f5c9b00074c475129c5e923c7e0f a64f9a9d6c180a94e00ff60b867e56334351dcb9 sergey <zak_on@list.ru> 1763316012 +0300	rebase: fast-forward
+a64f9a9d6c180a94e00ff60b867e56334351dcb9 ea7c41c3c179cd2dde7d7e9c90b448c7ea80c938 sergey <zak_on@list.ru> 1763316012 +0300	rebase (reword): feat: CA-2 Clean-architecture-entity
+ea7c41c3c179cd2dde7d7e9c90b448c7ea80c938 1e61374f32f5f59b1fbfada061d3ab7b5acec31f sergey <zak_on@list.ru> 1763316013 +0300	rebase (fixup): feat: CA-2 Clean-architecture-entity
+1e61374f32f5f59b1fbfada061d3ab7b5acec31f 1e61374f32f5f59b1fbfada061d3ab7b5acec31f sergey <zak_on@list.ru> 1763316013 +0300	rebase (finish): returning to refs/heads/feature/clean-architecture-entity

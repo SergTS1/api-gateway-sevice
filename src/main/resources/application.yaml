@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: api-gateway-service
+
+server:
+  port: 8079
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+logging:
+  level:
+    org.springdoc: DEBUG
+    com.date.gateway: DEBUG
+
+
+
+

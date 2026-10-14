@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 da4e7ea5fe008232b90bfae092105a3fa77f6446 sergey <zak_on@list.ru> 1760260546 +0300	branch: Created from main^0
+da4e7ea5fe008232b90bfae092105a3fa77f6446 5ad9b6682bd0fc9e38666e6454b4deeaff655250 sergey <zak_on@list.ru> 1760460377 +0300	commit: feat: CA-1 Clean-architecture-rest-api
+5ad9b6682bd0fc9e38666e6454b4deeaff655250 9faa057dad6f9937056917484bad5d85e3aea3de sergey <zak_on@list.ru> 1761384266 +0300	commit: feat: CA-1 Clean-architecture-rest-api
+9faa057dad6f9937056917484bad5d85e3aea3de 0d03ccf85fba4ac9b38ad4332d590ffb7e30e1a8 sergey <zak_on@list.ru> 1761384358 +0300	rebase (finish): refs/heads/feature/clean-architecture-rest-api onto da4e7ea5fe008232b90bfae092105a3fa77f6446

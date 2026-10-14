@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = git@gitlab.31338.ru:study/java/stream-1/java-s1-szakirov.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "feature/clean-architecture-rest-api"]
+	remote = origin
+	merge = refs/heads/feature/clean-architecture-rest-api
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+[branch "feature/clean-architecture-entity"]
+	remote = origin
+	merge = refs/heads/feature/clean-architecture-entity

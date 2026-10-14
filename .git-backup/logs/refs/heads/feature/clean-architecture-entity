@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1dd017bead13f5c9b00074c475129c5e923c7e0f sergey <zak_on@list.ru> 1762106838 +0300	branch: Created from dev^0
+1dd017bead13f5c9b00074c475129c5e923c7e0f a64f9a9d6c180a94e00ff60b867e56334351dcb9 sergey <zak_on@list.ru> 1762246483 +0300	commit: feat: CA-2 Clean-architecture-entity
+a64f9a9d6c180a94e00ff60b867e56334351dcb9 7d16a3e45d4508006c9667627b29601a3e1383cc sergey <zak_on@list.ru> 1763315940 +0300	commit: feat: CA-2 Clean-architecture-entity
+7d16a3e45d4508006c9667627b29601a3e1383cc 1e61374f32f5f59b1fbfada061d3ab7b5acec31f sergey <zak_on@list.ru> 1763316013 +0300	rebase (finish): refs/heads/feature/clean-architecture-entity onto 1dd017bead13f5c9b00074c475129c5e923c7e0f
